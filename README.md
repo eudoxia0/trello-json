@@ -4,6 +4,10 @@ Parse and simplify a Trello JSON export
 
 # Overview
 
+Trello lets you export the contents of a board to JSON, producing a file with
+far more information than you typically need. This project helps bring that
+under control.
+
 # Usage
 
 [Export a board to JSON][export], then:
