@@ -14,5 +14,4 @@
   :description "Parse and simplify a Trello JSON export"
   :long-description
   #.(uiop:read-file-string
-     (uiop:subpathname *load-pathname* "README.md"))
-  :in-order-to ((test-op (test-op trello-json-test))))
+     (uiop:subpathname *load-pathname* "README.md")))
